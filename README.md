@@ -59,6 +59,6 @@ Remember to showcase your process, provide clear explanations, and engage with y
 
 ```bash
 # Example code block
-git clone git@github.com:cppqtdev/Car-Gauge-.git
+git clone git@github.com:cppqtdev/Racing-Car-Dashboard.git
 
 
